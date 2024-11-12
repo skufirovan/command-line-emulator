@@ -1,0 +1,6 @@
+img/
+__pycache__/
+.pytest_cache/
+.venv/
+make-tar.py
+temp.*

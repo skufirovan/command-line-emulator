@@ -1,0 +1,6 @@
+cd test_root
+ls
+ffffff
+rev fddss
+cd test_root/dir2
+ls
