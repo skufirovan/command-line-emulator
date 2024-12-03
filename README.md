@@ -52,6 +52,6 @@ pytest -v
 
 Результаты успешного прогона тестов:
 
-![Результат прогона тестов](./img/test.png)
+![Результат прогона тестов](https://github.com/skufirovan/command-line-emulator/blob/main/img/test.png?raw=true)
 
-![Скриншот работы](./img/shell.png)
+![Скриншот работы](https://github.com/skufirovan/command-line-emulator/blob/main/img/shell.png?raw=true)
